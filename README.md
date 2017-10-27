@@ -1,3 +1,16 @@
+![](public/screenshot1.png?raw=true "KaliMeals Starting Page")
+^^ Start Page ^^
+
+![](public/screenshot2.png?raw=true "KaliMeals Search Page")
+^^ Search Page ^^
+
+![](public/screenshot3.png?raw=true "KaliMeals Food Added")
+^^ Food Item Added! ^^
+
+![](public/screenshot4.png?raw=true "KaliMeals Shopping List")
+^^ Shopping List ^^
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
